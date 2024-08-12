@@ -1,0 +1,228 @@
+### TOPICS:
+
+### → Mathematics
+
+### → Statistics
+
+### → Programming
+
+### → Machine learning
+
+### → Practicing problems on Kaggle
+
+### → Deep Learning
+
+## → Mathematics by **Andrew Ng**
+
+***Mathematics for Machine Learning. Learn about the prerequisite mathematics for applications in data science and machine learning***
+
+***This is mainly only used to understand how different machine learning algorithms work.***
+
+**Full Course Link:** *https://www.coursera.org/specializations/mathematics-machine-learning?irclickid=2Yg3nNzO6xyPW0GWfOw0ex0CUkFUR5w82zx2Xs0&irgwc=1*
+
+- ***What you will learn***
+    
+    In this course on Linear Algebra we look at what linear algebra is and how it relates to vectors and matrices. Then we look through what vectors and matrices are and how to work with them, including the knotty problem of eigenvalues and eigenvectors, and how to use these to solve problems. Finally  we look at how to use these to do fun things with datasets - like how to rotate images of faces and how to extract eigenvectors to look at how the Pagerank algorithm works.
+    
+    Since we're aiming at data-driven applications, we'll be implementing some of these ideas in code, not just on pencil and paper. Towards the end of the course, you'll write code blocks and encounter Jupyter notebooks in Python, but don't worry, these will be quite short, focussed on the concepts, and will guide you through if you’ve not coded before.
+    
+    At the end of this course you will have an intuitive understanding of vectors and matrices that will help you bridge the gap into linear algebra problems, and how to apply these concepts to machine learning.
+    
+
+**Skills You’ll Gain:**
+
+- ***Eigenvalues And Eigenvectors***
+- ***Principal Component Analysis (PCA)***
+- ***Multivariable Calculus***
+- ***Linear Algebra***
+
+**Duration:** ***1 month at 10 hours a week***
+
+### Topics Covered:
+
+1. ***Linear Algebra***
+2. ***Calculus***
+3. ***Probability***
+
+[Mathematics for Machine Learning by Andrew Ng](https://www.notion.so/26fd786f4da9485f9d2c64038e3b7b47?pvs=21)
+
+## → **Introduction to Statistics by Guenther Walther**
+
+**Statistics creutial skill to be a top Ai engineer**
+
+**Will cover core concepts**
+
+**Full Course Link:** *https://www.coursera.org/learn/stanford-statistics?irclickid=2Yg3nNzO6xyPW0GWfOw0ex0CUkFUWxzxHzvw1Q0&irgwc=1*
+
+**Skills You’ll Gain:**
+
+- ***A lot. (12)***
+
+**Duration:** ***3 weeks at 4 hours a week***
+
+### Topics Covered:
+
+1. ***Introduction and Descriptive Statistics for Exploring Data (2h)***
+2. ***Producing Data and Sampling***
+3. ***Probability***
+4. ***Normal Approximation and Binomial Distribution***
+5. ***Sampling Distributions and the Central Limit Theorem***
+6. ***Regression***
+7. ***Confidence Intervals***
+8. ***Tests of Significance***
+9. ***Resampling***
+10. ***Analysis of Categorical Data***
+11. ***One-Way Analysis of Variance (ANOVA)***
+12. ***Multiple Comparisons***
+
+### **Introduction and Descriptive Statistics for Exploring Data**
+
+**This module provides an overview of the course and a review of the main tools used in descriptive statistics to visualize information.**
+
+[Introduction and Descriptive Statistics for Exploring Data](https://www.notion.so/42a3e496ae4943bf9c160fd50307477d?pvs=21)
+
+### Producing Data and Sampling
+
+**In this module, you will look at the main concepts for sampling and designing experiments. You will learn about curious pitfalls and how to evaluate the effectiveness of such experiments.**
+
+[Producing Data and Sampling](https://www.notion.so/459f33e4b54a4ba1adf57ae5b58ee8ee?pvs=21)
+
+### Probability
+
+**In this module, you will learn about the definition of probability and the essential rules of probability that you will need for solving both simple and complex challenges. You will also learn about examples of how simple rules of probability are used to create solutions for real-life complex situations.**
+
+[Probability](https://www.notion.so/2b9769d17b204cf6a2cb4ed5f9bffe72?pvs=21)
+
+### Normal Approximation and Binomial Distribution
+
+**This module covers the empirical rule and normal approximation for data, a technique that is used in many statistical procedures. You will also learn about the binomial distribution and the basics of random variables.**
+
+[Normal Approximation and Binomial Distribution](https://www.notion.so/e4afdc7f0b6241af8f30f79d77959da6?pvs=21)
+
+### Sampling Distributions and the Central Limit Theorem
+
+**In this module, you will learn about the Law of Large Numbers and the Central Limit Theorem. You will also learn how to differentiate between the different types of histograms present in statistical analysis.**
+
+[Sampling Distributions and the Central Limit Theorem](https://www.notion.so/657242ccae41469fa845b96f267fa466?pvs=21)
+
+### Regression
+
+**This module covers regression, arguably the most important statistical technique based on its versatility to solve different types of statistical problems. You will learn about inference, regression, and how to do regression diagnostics.**
+
+[Regression](https://www.notion.so/b6dd7f1e89de40bdb2fdd12812163a6f?pvs=21)
+
+### Confidence Intervals
+
+**In this module, you will learn how to construct and interpret confidence intervals in standard situations.**
+
+[Confidence Intervals](https://www.notion.so/7015ffddabb74428af04484f6fbb4ec8?pvs=21)
+
+### Test of Significance
+
+**In this module, you will look at the logic behind testing and learn how to perform the appropriate statistical tests for different samples and situations. You will also learn about common misunderstandings and pitfalls in testing.**
+
+[Test of Significance](https://www.notion.so/61ded4f19e894510b5f5b7db75f57e34?pvs=21)
+
+### Resampling
+
+**This module focuses on the two main methods used in computer-intensive statistical inference: The Monte Carlo method, and the Bootstrap method. You will learn about the theoretic principles behind these methods and how they are applied in different contexts, such as regression and constructing confidence intervals.**
+
+[Resampling](https://www.notion.so/616a035a707940b5b3cf08fe4a8e9a8f?pvs=21)
+
+### Analysis of Categorical Data
+
+**This module focuses on the three important statistical analysis for categorical data: Chi-Square Goodness of Fit test, Chi-Square test of Homogeneity, and Chi-Square test of Independence.**
+
+[Analysis of Categorical Data](https://www.notion.so/7cb6335ca49540c0897eddd14592f3e9?pvs=21)
+
+### One-Way Analysis of Variance (ANOVA)
+
+**This module covers the basics of ANOVA and how F-tests work on one-way ANOVA examples.**
+
+[One-Way Analysis of Variance (ANOVA)](https://www.notion.so/9cb1077543c842498a0b27305cf61614?pvs=21)
+
+### Multiple Comparisons
+
+**In this module, you will learn about very important issues that have surfaced in the era of big data: data snooping and the multiple testing fallacy. You will also explore the reasons behind challenges in data reproducibility and applicability, and how to prevent such issues in your own work.**
+
+[Multiple Comparisons](https://www.notion.so/b86014f3b2a949de9b90f0137a30e1d5?pvs=21)
+
+## → **Python for Everybody**
+
+**Full Course Link:** *https://www.py4e.com/*
+
+**Skills You’ll Gain:**
+
+- ***Python***
+
+**Duration:** ***10 Weeks***
+
+*You should be already done with python during the CS learning we did back then.*
+
+## → **Machine Learning Specialization** by **Andrew Ng**
+
+***#BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng***
+
+**Full Course Link:** *https://www.coursera.org/specializations/machine-learning-introduction?irclickid=2Yg3nNzO6xyPW0GWfOw0ex0CUkFUWQQFHzvw1Q0&irgwc=1*
+
+- ***What you will learn***
+    - Build ML models with NumPy & scikit-learn, build & train supervised models for prediction & binary classification tasks (linear, logistic regression)
+    - Build & train a neural network with TensorFlow to perform multi-class classification, & build & use decision trees & tree ensemble methods
+    - Apply best practices for ML development & use unsupervised learning techniques for unsupervised learning including clustering & anomaly detection
+    - Build recommender systems with a collaborative filtering approach & a content-based deep learning method & build a deep reinforcement learning model
+
+**Skills You’ll Gain:**
+
+- ***Decision Trees***
+- ***Artificial Neural Networks***
+- ***Logistic Regression***
+- ***Recommender Systems***
+- ***Linear Regression***
+
+**Duration:** ***2 months at 10 hours a week***
+
+### Topics Covered:
+
+1. ***Supervised Machine Learning: Regression and Classification***
+2. ***Advanced Learning Algorithms***
+3. ***Unsupervised Learning, Recommenders, Reinforcement Learning***
+
+[Machine Learning Specialization by Andrew Ng](https://www.notion.so/5b31c1bdf286420eab92510fb183ae33?pvs=21)
+
+## → **Kaggle**
+
+**Kaggle is the world’s largest data science community with powerful tools and resources to help you achieve your data science goals.**
+
+**Website:** [*https://www.kaggle.com/*](https://www.kaggle.com/)
+
+## → **Deep learning By Andrew Ng**
+
+***Become a Machine Learning expert. Master the fundamentals of deep learning and break into AI. Recently updated with cutting-edge techniques!***
+
+**Full Course Link:** *https://www.coursera.org/specializations/deep-learning?irclickid=2Yg3nNzO6xyPW0GWfOw0ex0CUkFUWQWJHzvw1Q0&irgwc=1*
+
+- ***What you will learn***
+    - Build and train deep neural networks, identify key architecture parameters, implement vectorized neural networks and deep learning to applications
+    - Train test sets, analyze variance for DL applications, use standard techniques and optimization algorithms, and build neural networks in TensorFlow
+    - Build a CNN and apply it to detection and recognition tasks, use neural style transfer to generate art, and apply algorithms to image and video data
+    - Build and train RNNs, work with NLP and Word Embeddings, and use HuggingFace tokenizers and transformer models to perform NER and Question Answering
+
+**Skills You’ll Gain:**
+
+- ***Artificial Neural Network***
+- ***Convolutional Neural Network***
+- ***Tensorflow***
+- ***Recurrent Neural Network***
+- ***Transformers***
+
+**Duration:** ****3 months at 10 hours a week**
+
+### Topics Covered:
+
+1. **Neural Networks and Deep Learning**
+2. **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization**
+3. **Structuring Machine Learning Projects**
+4. **Convolutional Neural Networks**
+5. **Sequence Models**
+
+[Deep learning By Andrew Ng](https://www.notion.so/6ef70e4b642f463fbeae0c9aebfebfdd?pvs=21)
